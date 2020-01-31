@@ -51,7 +51,7 @@ Coming to the deep neutral network being used, I've gone with the quite basic `V
 
 <a id='local'></a>
 
-The entire notebook was run on Google's servers using Google [colab](https://colab.research.google.com). You too can run this code there by uploading the data to Google Drive. Make sure to have your data in the following structure: <br>
+The entire notebook was run on Google's servers using Google [colab](https://colab.research.google.com). You too can run this code there by uploading the data to Google Drive. Make sure to have your data in the following structure: <br><br>
 ![dir.png](screenshot/dir.png)
 
 ***
@@ -62,11 +62,11 @@ The entire notebook was run on Google's servers using Google [colab](https://col
 1.  Fork the repository from Github
 2.  Clone your fork
 
-`git clone https://github.com/kaustubh-ai/Automatic_Door_Unlocker.git`
+`https://github.com/kaustubh-ai/Amazon_Rainforest.git`
 
 3.  Add the main repository as a remote
 
-```git remote add upstream https://github.com/kaustubh-ai/Automatic_Door_Unlocker.git```
+```git remote add upstream https://github.com/kaustubh-ai/Amazon_Rainforest.git```
 
 4.  Create a pull request!
 
