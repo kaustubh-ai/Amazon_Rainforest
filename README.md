@@ -1,7 +1,4 @@
-
-
-
-# Automatic Door Unlocker
+# Understanding Amazon Forests
 
 ### Table of Contents
 
@@ -54,7 +51,7 @@ Coming to the deep neutral network being used, I've gone with the quite basic `V
 
 <a id='local'></a>
 
-The entire notebook was run on Google's servers using Google [colab](https://colab.research.google.com). You too can run this code there by uploading the data to Google Drive. Make sure to have your data in the following structure:
+The entire notebook was run on Google's servers using Google [colab](https://colab.research.google.com). You too can run this code there by uploading the data to Google Drive. Make sure to have your data in the following structure: <br>
 ![dir.png](screenshot/dir.png)
 
 ***
